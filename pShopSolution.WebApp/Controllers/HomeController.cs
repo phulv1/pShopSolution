@@ -23,6 +23,12 @@ namespace pShopSolution.WebApp.Controllers
 			return View();
 		}
 
+
+		public IActionResult Language()
+		{
+			return View();
+		}
+
 		public IActionResult Privacy()
 		{
 			return View();
